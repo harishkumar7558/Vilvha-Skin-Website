@@ -1,0 +1,13 @@
+.main{
+    background-color: rgb(160, 204, 94);
+    height: 5vh;
+    padding-left: 30% !important;
+    font-size: smaller;
+}
+.sub1{
+    color:black;
+}
+.sub2{
+    color: white;
+    font-weight: 700;
+}

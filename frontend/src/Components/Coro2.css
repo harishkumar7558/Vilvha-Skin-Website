@@ -1,0 +1,11 @@
+.maincoro2{
+    margin: 2%;
+   
+}
+.img1{
+    background-image: url("https://www.vilvahstore.com/cdn/shop/files/WhatsAppImage2024-04-15at12.28.54.jpg?v=1713165307&width=300");
+}
+
+.img1:hover{
+ background-image: url("https://www.vilvahstore.com/cdn/shop/files/2_36e09270-d069-4990-877c-29f7b2e342e2.jpg?v=1693506789&width=800");
+}
